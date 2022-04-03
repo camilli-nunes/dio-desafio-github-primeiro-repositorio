@@ -1,0 +1,50 @@
+﻿[Main]
+Name    = 
+Author  = 
+About   = 
+Date    = 2022-03-19 19:27:02
+Version = 2.18
+
+[Start]
+Shape   = Rectangle
+Caption = Terse
+
+[End]
+Shape   = Rectangle
+Caption = Terse
+
+[Input]
+Shape   = Rhomboid
+Caption = Terse
+
+[Output]
+Shape   = Rhomboid Flipped
+Caption = Terse
+
+[Declare]
+Shape   = Storage
+Caption = Terse
+
+[Assign]
+Shape   = Rectangle
+Caption = Terse
+
+[Call]
+Shape   = Diamond
+Caption = Terse
+
+[If]
+Shape   = Call
+Caption = Terse
+
+[While]
+Shape   = Hexagon
+Caption = Terse
+
+[For]
+Shape   = Hexagon
+Caption = Terse
+
+[Do]
+Shape   = Hexagon
+Caption = Terse
